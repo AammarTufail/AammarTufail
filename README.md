@@ -59,6 +59,6 @@ I am a `Data Scientist` / `Bioinformatician` <img src="https://media.giphy.com/m
 - :zap: In my free time, I solve problems on [www.codanics.com](www.codanics.com) and read tech articles.
 
 - :mailbox: How to reach me: 
-  - [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/dr-muhammad-aammar-tufail-02471213b/))
+  - [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dr-muhammad-aammar-tufail-02471213b/)
 
 ---
